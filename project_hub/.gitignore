@@ -1,0 +1,78 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/.last_build_id
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Generated files
+*.log
+*.lock
+*.pyc
+*.pyo
+*.so
+*.swp
+.svn/
+*.class
+*.jar
+*.war
+*.ear
+*.db
+
+# Obsolete files
+*.orig
+
+# Mac/Linux related
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows related
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# Flutter specific
+.flutter/
+.ios/
